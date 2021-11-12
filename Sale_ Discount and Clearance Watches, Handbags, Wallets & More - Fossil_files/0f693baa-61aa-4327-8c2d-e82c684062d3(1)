@@ -1,0 +1,1 @@
+Krux.ns.fossilamer.kxjsonp_consent_set_1({"status":400,"body":{"dt":"kxcookie","settings":{"dc":1,"al":1,"tg":1,"cd":1,"sh":1,"re":1},"pr":"global","code":"bad_request","idt":"device","idv":"DNT","request_id":"17LO4v8BV5vGpdNQ62Oo1U","errors":{"idv":"user opted out via (optout or dnt)"},"timestamp":1636729552}});
